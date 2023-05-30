@@ -1,6 +1,6 @@
 body {
-    background-color: rgb(56, 212, 226);
-    color: rgba(180, 4, 4, 0.822);
+    background-color: rgb(187, 135, 40);
+    color: rgba(111, 2, 2, 0.822);
 }
 
 h1 {
@@ -154,11 +154,15 @@ footer{
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: #2698be;
+    background-color: #afa820;
     min-height: 200px;
     justify-content: center;
     text-align: center;
 }
 .greeting{
     text-align: center;
+    font-size: 40px;
+}
+.ser{
+    font-size: 40px;
 }
